@@ -1,0 +1,56 @@
+{
+  "meeting_id": 8,
+  "summary": "The meeting discussed two upcoming projects: an AI-powered customer support chatbot and a cloud-based inventory management system. The chatbot aims for an MVP deployment within four weeks, while the inventory management system is targeting compilation in about six weeks. Back end, front end, and machine learning engineers will be involved.",
+  "tasks": [
+    {
+      "task": "AI-powered Customer Support Chatbot Development",
+      "sentence": "Develop an MVP of an AI-powered customer support chatbot that integrates with the CRM system, handles real-time queries using natural language processing, and deploys within four weeks.",
+      "urgency": "high",
+      "skills": [
+        "back end engineering",
+        "front end engineering",
+        "machine learning"
+      ],
+      "deadline": "2025-08-16",
+      "assignee": [
+        {
+          "id": 5,
+          "name": "Ethan Brown",
+          "match_score": 0.371
+        },
+        {
+          "id": 6,
+          "name": "Fiona Garcia",
+          "match_score": 0.365
+        },
+        {
+          "id": 8,
+          "name": "Hannah Martinez",
+          "match_score": 0.456
+        }
+      ]
+    },
+    {
+      "task": "Cloud-Based Inventory Management System Development",
+      "sentence": "Develop a cloud-based inventory management system that supports automated restocking alerts, barcode scanning, integration, and detailed analytics dashboards. The target completion date is about six weeks from today's date (2025-07-16).",
+      "urgency": "high",
+      "skills": [
+        "back end engineering",
+        "front end engineering"
+      ],
+      "deadline": "2025-08-30",
+      "assignee": [
+        {
+          "id": 5,
+          "name": "Ethan Brown",
+          "match_score": 0.371
+        },
+        {
+          "id": 6,
+          "name": "Fiona Garcia",
+          "match_score": 0.365
+        }
+      ]
+    }
+  ]
+}
